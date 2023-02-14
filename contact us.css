@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgg{
+    height: 550px;
+    width: 550px;
+}
+.container{
+    background-color: azure;
+}
+.dd{
+    color: white;
+    background-color: green;
+    width: 600px;
+    border-radius: 2px;
+}

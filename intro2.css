@@ -1,0 +1,98 @@
+.intro {
+    background-color: black;
+    color: antiquewhite;
+    font-style: italic;
+    font-weight: 200px;
+    font-size: 40px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0px;
+}
+#navbar_text{
+    color: antiquewhite;
+    font-size: large;
+}
+
+.login {
+    background-color: black;
+    text-align: left;
+    color: yellow;
+    text-align: right;
+    text-decoration: none;
+    font-size: 25px;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ik {
+    height: auto;
+    width: 100%;
+}
+.imgxt {
+    position: relative;
+    text-align: center;
+    filter: blur(0.5x);
+    -webkit-filter: blur(0.5px);
+}
+
+.txt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: black;
+    font-style: italic;
+}
+
+.pd {
+    background-color: antiquewhite;
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+.card-img-top
+{
+    height: 500px;
+    width: 500px;
+}
+.card-text{
+    color: black;
+}
+.price{
+    font-size: 20px;
+    color: red;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1200px; /* set the maximum width of the container */
+    margin: 0 auto; /* center the container */
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .col-md-4 {
+    flex: 1; /* make the columns take up equal width */
+    margin: 10px;
+  }
+a{
+    text-decoration: none;
+}
+.err{
+    font-size: 30px;
+    color: gray;
+}
+.ll{
+    font-size: medium;
+    color: gray;
+}
